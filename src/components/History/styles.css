@@ -1,0 +1,21 @@
+.image-history img {    
+    width: 150px;
+    margin: 5px 20px;    
+}
+
+.image-history {
+    display: inline-block;
+    
+}
+
+.history-up p, h2 {
+    margin: 5px 20px;
+}
+
+.valor-compra {
+    color: red;
+}
+.valor-formatado {
+    color: green;
+    font-weight: bold;
+}

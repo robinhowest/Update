@@ -1,0 +1,46 @@
+.navbar {
+    display: flex;
+    align-content: center;
+    margin-top: auto;
+    padding: 2rem 2rem;    
+}
+
+.navbar input {
+    align-items: center;
+    padding: 0.5rem 2rem;        
+    border-radius: 4px;      
+}
+
+.navbar form {
+    display: flex ;
+    gap: .3rem;       
+}
+
+.navbar button {
+    padding: 0.5rem 0.7rem;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.wraper {
+    display: flex ;
+    align-items: end;
+    gap: 2rem;
+}
+
+.cart {    
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.wraper a {
+    color: aliceblue;
+}
+
+.cart small  {
+    color: aliceblue;
+}
+
+
+
+
