@@ -9,7 +9,7 @@ export const Product = () => {
       name: "Placa Mãe MSI B560M-A PRO",
       price: 498.00,
       description: "Placa Mãe MSI B560M-A PRO, Intel LGA 1200, Intel B560, mATX, DDR4",
-      image: "../../public/img/produtos/imagem1.jpg",
+      image: "../../img/produtos/imagem1.jpg",
       quantity: 1,
     },
     {
@@ -17,7 +17,7 @@ export const Product = () => {
       name: "Placa Mãe Gigabyte X299",
       price: 6498.00,
       description: "Placa Mãe Cpu Intel LGA2066 DDR4 Rgb Fusión Dual M.2 USB",
-      image: "../../public/img/produtos/imagem13.jpg",
+      image: "../../img/produtos/imagem13.jpg",
       quantity: 1,
     },
     {
@@ -25,7 +25,7 @@ export const Product = () => {
       name: "Placa Mãe Msi Meg Z690",
       price: 4699.00,
       description: "Para Intel 12ª Geração, Socket Lga 1700, DDR5, Atx, Pcie 5.0, Dual 2.5g",
-      image: "../../public/img/produtos/imagem4.jpg",
+      image: "../../img/produtos/imagem4.jpg",
       quantity: 1,
     },
     {
@@ -33,7 +33,7 @@ export const Product = () => {
       name: "Placa Mãe Asus Rog",
       price: 4699.00,
       description: "Placa Mãe Asus Rog Intel Lga (1200) Micro Atx Ddr4 - Strix Z590-f",
-      image: "../../public/img/produtos/imagem5.jpg",
+      image: "../../img/produtos/imagem5.jpg",
       quantity: 1,
     },
     {
@@ -41,7 +41,7 @@ export const Product = () => {
       name: "Placa Mãe Asus Rog Strix",
       price: 4299.00,
       description: "Placa Mãe Asus Rog Strix Z590-i Wifi Lga 1200 Ddr4",
-      image: "../../public/img/produtos/imagem6.jpg",
+      image: "../../img/produtos/imagem6.jpg",
       quantity: 1,
     },
     {
@@ -49,7 +49,7 @@ export const Product = () => {
       name: "Placa Mãe Asus Rog Strix",
       price: 4099.00,
       description: "Placa Mãe Asus Rog Strix Z590-a Gaming Wifi Lga 1200",
-      image: "../../public/img/produtos/imagem7.jpg",
+      image: "../../img/produtos/imagem7.jpg",
       quantity: 1,
     },
     {
@@ -57,7 +57,7 @@ export const Product = () => {
       name: "Placa Mãe Asus, Rog Strix",
       price: 3900.00,
       description: "Placa Mãe Asus, Rog Strix Z690-e, Gaming Wifi 1700, DDR5",
-      image: "../../public/img/produtos/imagem8.jpg",
+      image: "../../img/produtos/imagem8.jpg",
       quantity: 1,
     },
     {
@@ -65,7 +65,7 @@ export const Product = () => {
       name: "Placa Mãe Gigabyte X670",
       price: 3900.00,
       description: "Placa Mãe Gigabyte X670 Aorus Elite AX, AMD AM5, ATX, DDR5",
-      image: "../../public/img/produtos/imagem9.jpg",
+      image: "../../img/produtos/imagem9.jpg",
       quantity: 1,
     },
     {
@@ -73,7 +73,7 @@ export const Product = () => {
       name: "Placa Mãe Z590 Mpg",
       price: 3900.00,
       description: "Intel Core De 11ª / 10ª Geração, Lga 1200",
-      image: "../../public/img/produtos/imagem10.jpg",
+      image: "../../img/produtos/imagem10.jpg",
       quantity: 1,
     }  
   ]   
